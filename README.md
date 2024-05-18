@@ -1,5 +1,7 @@
 Uma calculadora simples com operações básicas (adição, subtração, multiplicação, divisão) construída com HTML, CSS e JavaScript.
 
+https://phaelrd.github.io/Calculadora/
+
 Funcionalidades
 Interface de usuário para inserir números e operadores.
 Realização de cálculos e exibição do resultado.
