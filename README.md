@@ -4,7 +4,7 @@ Esta é uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
 ## Demonstração
 
-![Descrição da imagem](https://prnt.sc/Qgf7yxgT4Dgq)
+https://phaelrd.github.io/Calculadora/
 
 ## Funcionalidades
 
